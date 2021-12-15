@@ -40,18 +40,18 @@ Average customer lifespan = Customer lifespan/ Number of customers used in equat
 
 CLV = T x AOV x AGM x ALT/ number of clients for the period
 
-T is the average number of transactions per month
-AOV (Ticket size) is the Average order value
-AGM is the Average gross margin
-ALT is the Average customer’s lifespan in months 
-ALT = 1/churn rate%
-churn rate = (CB - CE/CB) x 100
-  Which CB is clients at the beginning of a month 
-  CE is client at the end of a month
+- T is the average number of transactions per month
+- AOV (Ticket size) is the Average order value
+- AGM is the Average gross margin
+- ALT is the Average customer’s lifespan in months 
+- ALT = 1/churn rate%
+  -> churn rate = (CB - CE/CB) x 100
+     Which CB is clients at the beginning of a month 
+     CE is client at the end of a month
 
-APRU = TR/CQ ; 
-TR is total revenue for a chosen period
-CQ is the number of customers for a chosen period
+- APRU = TR/CQ ; 
+  TR is total revenue for a chosen period
+  CQ is the number of customers for a chosen period
 
 **Dashboard**
 
