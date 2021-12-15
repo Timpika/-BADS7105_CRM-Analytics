@@ -25,9 +25,11 @@ The Supermarket data contains 956,576 rows
 22. Store_region: Region the store belongs to
 
 **Customer Lifetime Value**
+
 Customer lifetime value (CLV, LTV) is a metric that businesses use to predict how much revenue a customer will drive over time
 
 **CLV Calculation**
+
 CLV = (Average Purchase Value - Average Purchase Frequency) x Average Customer Lifespan
 
 Average Purchase Value = Total Revenue/ Number of purchase
@@ -38,20 +40,20 @@ Average customer lifespan = Customer lifespan/ Number of customers used in equat
 
 CLV = T x AOV x AGM x ALT/ number of clients for the period
 
-Which T is the average number of transactions per month
+T is the average number of transactions per month
 AOV (Ticket size) is the Average order value
 AGM is the Average gross margin
 ALT is the Average customer’s lifespan in months 
 ALT = 1/churn rate%
-churn rate = (CB - CE/CB)*100
-Which CB is clients at the beginning of a month 
-CE is client at the end of a month
+churn rate = (CB - CE/CB) x 100
+  Which CB is clients at the beginning of a month 
+  CE is client at the end of a month
 
 APRU = TR/CQ ; 
 TR is total revenue for a chosen period
 CQ is the number of customers for a chosen period
 
-Dashboard
+**Dashboard**
 
 ![supermarket dashboard_2006](https://user-images.githubusercontent.com/96098785/146214723-78bd8239-f2c4-4cb3-8ded-45443013c769.PNG)
 
