@@ -1,4 +1,4 @@
-The Supermarket data contains 956,576 rows 
+The Supermarket data contains 956,575 rows 
 
 **Attribute Information**
 1. Shop_week: identifies the week of the basket 
@@ -44,8 +44,8 @@ CLV = T x AOV x AGM x ALT/ number of clients for the period
 - AOV (Ticket size) is the Average order value
 - AGM is the Average gross margin
 - ALT is the Average customer’s lifespan in months 
-- ALT = 1/churn rate%
-  -> churn rate = (CB - CE/CB) x 100;
+- ALT = 1/churn rate%;
+  churn rate = (CB - CE/CB) x 100
      Which CB is clients at the beginning of a month 
      and CE is client at the end of a month
 
