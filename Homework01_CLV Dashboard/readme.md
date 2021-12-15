@@ -36,7 +36,7 @@ CLV = (Average Purchase Value - Average Purchase Frequency) x Average Customer L
 - Average Purchase Frequency = Number of purchase/Unique Customers
 - Average customer lifespan = Customer lifespan/ Number of customers used in equation
 
-**Simple calculation related to CLV also includes.*
+**Simple calculation related to CLV also includes**
 
 CLV = T x AOV x AGM x ALT/ number of clients for the period
 
@@ -45,7 +45,7 @@ CLV = T x AOV x AGM x ALT/ number of clients for the period
 - AGM is the Average gross margin
 - ALT is the Average customer’s lifespan in months 
 - ALT = 1/churn rate%
-  -> churn rate = (CB - CE/CB) x 100
+  -> churn rate = (CB - CE/CB) x 100;
      Which CB is clients at the beginning of a month 
      and CE is client at the end of a month
 
