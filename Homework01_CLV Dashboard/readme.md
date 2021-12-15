@@ -32,9 +32,9 @@ Customer lifetime value (CLV, LTV) is a metric that businesses use to predict ho
 
 CLV = (Average Purchase Value - Average Purchase Frequency) x Average Customer Lifespan
 
-Average Purchase Value = Total Revenue/ Number of purchase
-Average Purchase Frequency = Number of purchase/Unique Customers
-Average customer lifespan = Customer lifespan/ Number of customers used in equation
+- Average Purchase Value = Total Revenue/ Number of purchase
+- Average Purchase Frequency = Number of purchase/Unique Customers
+- Average customer lifespan = Customer lifespan/ Number of customers used in equation
 
 **Simple calculation related to CLV also includes.*
 
@@ -47,10 +47,10 @@ CLV = T x AOV x AGM x ALT/ number of clients for the period
 - ALT = 1/churn rate%
   -> churn rate = (CB - CE/CB) x 100
      Which CB is clients at the beginning of a month 
-     CE is client at the end of a month
+     and CE is client at the end of a month
 
 - APRU = TR/CQ ; 
-  TR is total revenue for a chosen period
+  TR is total revenue for a chosen period and 
   CQ is the number of customers for a chosen period
 
 **Dashboard**
