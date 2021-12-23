@@ -1,6 +1,11 @@
+**Dataset**
+---------------------------------------------------------------------------------------------
+
 The Supermarket data contains 956,575 rows 
 
 **Attribute Information**
+---------------------------------------------------------------------------------------------
+
 1. Shop_week: identifies the week of the basket 
 2. Shop_date: Date when shopping has been made. The date is specified in the yyyymmdd format
 3. Shop_weekday: identifies the day of the week
