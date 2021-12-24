@@ -1,5 +1,13 @@
-**Customer Segmentation**
+### **Customer Segmentation**
+
+**Dataset**
 ----------------------------------------------------------------------------------------------------------------
+Supermarket data same as homework01
+
+**Objective**
+----------------------------------------------------------------------------------------------------------------
+ Using K means clustering for customer segmentation. Describe and plan for action clusters. 
+ 
 
 ![CS_1](https://user-images.githubusercontent.com/96098785/147213051-6260e4d9-be58-4d59-bbaa-d379a8a1eeef.png)
 
