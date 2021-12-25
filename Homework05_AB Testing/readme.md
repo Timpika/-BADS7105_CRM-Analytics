@@ -2,6 +2,8 @@
 -------------------------------------------------------------------------
 ![AB testing_Timpika(1)](https://user-images.githubusercontent.com/96098785/147394051-339a6433-a532-46e6-b2ad-af95364f3fad.png)
 
+![AB testing_Timpika(1 1)](https://user-images.githubusercontent.com/96098785/147394065-1496f9b7-426c-4865-9711-235de81709a2.png)
+
 ![AB testing_Timpika(2)](https://user-images.githubusercontent.com/96098785/146664568-6041f397-94d8-4e43-bc3c-0056e89cfdb9.png)
 
 ![AB testing_Timpika(3)](https://user-images.githubusercontent.com/96098785/146664571-1bdb84a4-1e37-4b2a-8a7f-5c4e6839c484.png)
