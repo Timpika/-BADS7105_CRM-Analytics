@@ -1,6 +1,6 @@
 **A/B Testing**
 -------------------------------------------------------------------------
-![AB testing_Timpika(1)](https://user-images.githubusercontent.com/96098785/146664562-1003adc5-da22-424e-830f-82fae59b3e9c.png)
+![AB testing_Timpika(1)](https://user-images.githubusercontent.com/96098785/147394051-339a6433-a532-46e6-b2ad-af95364f3fad.png)
 
 ![AB testing_Timpika(2)](https://user-images.githubusercontent.com/96098785/146664568-6041f397-94d8-4e43-bc3c-0056e89cfdb9.png)
 
