@@ -8,8 +8,7 @@ Supermarket data
 ----------------------------------------------------------------------------------------------------------------
  Using K means clustering for customer segmentation. Describe and plan for action clusters. 
  
-
-![CS_1](https://user-images.githubusercontent.com/96098785/147213051-6260e4d9-be58-4d59-bbaa-d379a8a1eeef.png)
+![CS_1](https://user-images.githubusercontent.com/96098785/147394001-e96e660e-dad7-479c-8b36-d7dd8c156680.png)
 
 ![CS_2](https://user-images.githubusercontent.com/96098785/147213070-a291ad3c-6480-4baa-a66c-10cfcfabf367.png)
 
