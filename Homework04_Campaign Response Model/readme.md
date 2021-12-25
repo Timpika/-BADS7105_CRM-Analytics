@@ -1,5 +1,5 @@
 **Campaign response model**
-
+---------------------------------------------------------------------------
 ![CSM_1](https://user-images.githubusercontent.com/96098785/147363326-eb4d9d55-ff88-435e-9a8f-c2d652893476.png)
 
 
