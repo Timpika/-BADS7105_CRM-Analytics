@@ -1,6 +1,6 @@
 **Design Thinking**
 ------------------------------------------------
-![design thinking_timpika(1)](https://user-images.githubusercontent.com/96098785/146664473-525bf3d8-000c-4944-9806-fa8780806682.png)
+![Design Thinking_timpika(1)](https://user-images.githubusercontent.com/96098785/147394091-00448150-6245-46a5-88dd-3a7f241de015.png)
 
 ![design thinking_timpika(2)](https://user-images.githubusercontent.com/96098785/146664474-6a39948f-2cec-4cf3-8c67-d4a8350965e6.png)
 
