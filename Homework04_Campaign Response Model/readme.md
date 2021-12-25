@@ -1,7 +1,6 @@
 **Campaign response model**
 ---------------------------------------------------------------------------
-![CSM_1](https://user-images.githubusercontent.com/96098785/147363326-eb4d9d55-ff88-435e-9a8f-c2d652893476.png)
-
+![CSM_1](https://user-images.githubusercontent.com/96098785/147394029-9de967fb-b53e-45ae-aa98-c9fd94bb7ad0.png)
 
 ![CSM_2](https://user-images.githubusercontent.com/96098785/147363335-61a134c1-9c89-4085-8824-e8328cb2299e.png)
 
