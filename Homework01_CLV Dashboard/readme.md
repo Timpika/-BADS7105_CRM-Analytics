@@ -40,9 +40,18 @@ The Supermarket data contains 956,575 rows
 
 **Dashboard**
 -----------------------------------------------------------------------------------------
-
+**Overview 2006**
+--------------------------------------
 ![supermarket dashboard_2006](https://user-images.githubusercontent.com/96098785/146214723-78bd8239-f2c4-4cb3-8ded-45443013c769.PNG)
-
+**Overview 2007**
+--------------------------------------
 ![supermarket dashboard_2007](https://user-images.githubusercontent.com/96098785/146214840-c1301068-7bf0-4ad6-8ff6-6c1454c3db99.PNG)
-
+**Overview 2008**
+--------------------------------------
 ![supermarket dashboard_2008](https://user-images.githubusercontent.com/96098785/146214844-caaf2328-d567-4cc9-a732-b41cc2ab904c.PNG)
+
+**Summary**
+----------------------------------
+Overview dashboards show that in 2007 a supermarket can reach the highest sale with total sales of 809.64K and 435K transactions. The sale volumes had increased from 2006 until 2007. The store region E02 still has continued to be the top region with the highest sales. The top seller of a product is fresh and the second is mixed. 
+The customer life stage shows that group of other and young adults customers are top spenders respectively. Thus, we should keep customer retention by giving them a reward like a coupon discount or special offers. However, it points out in 2008 the sales decreased. Active users had decreased. With big data, a store can gain insight from customers. So, the stores should offer an online experience. Home delivery is an option for customers who don’t want to come to a physical store. In addition, they should gain a click and collect strategy which is buying online and picking up in-store.it brings shoppers through the doors, and it can lead to bigger baskets
+
